@@ -12,7 +12,7 @@ const Landing: React.FC = () => {
                     <span className="text-primary">API</span>
                 </h1>
                 <p className="my-5 text-sm md:text-base text-center">
-                    This is an awesome api for genrating rubik's cube scrambles
+                    This is an awesome api for generating rubik's cube scrambles
                     , all the puzzles from 2x2 up to 7x7 are supported.A demo is
                     provided below , for more info check it on github
                 </p>

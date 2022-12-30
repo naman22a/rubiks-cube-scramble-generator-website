@@ -7,7 +7,7 @@ const Header: React.FC = () => {
                 scramble generator
             </h4>
             <a
-                href="https://github.com/namanArora1022/api-scramble-generator"
+                href="https://github.com/namanArora1022/rubiks-cube-scramble-generator"
                 target="_blank"
             >
                 <button className="px-6 py-2 border border-primary rounded hover:bg-primary transition-all duration-300 text-lg mt-5 md:mt-0">

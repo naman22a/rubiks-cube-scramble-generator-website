@@ -34,7 +34,7 @@ const ScrambleGenerator: React.FC = () => {
             {/* @ts-ignore */}
             <a name="bottom"></a>
             <h2 className="text-xl md:text-2xl uppercase tracking-wider inline-block border-b-4 border-b-primary pb-2 mb-20">
-                Scramble Genrator Example
+                Scramble Generator Example
             </h2>
 
             <div className="bg-gray-200 p-10 md:p-20 rounded-lg flex flex-col justify-center items-center w-full md:w-1/2">
